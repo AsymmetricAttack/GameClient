@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.qualcomm.snapdragon.spaces": {
+      "tarball": {
+        "hash": "736526e74371",
+        "mtime": 1696027586000,
+        "size": 9506771,
+        "localPath": "/Users/newuser/Downloads/Snapdragon_Spaces_SDK_0_17_0_for_Unity/Unity Package/com.qualcomm.snapdragon.spaces-0.17.0.tgz"
+      }
+    }
+  }
+}
