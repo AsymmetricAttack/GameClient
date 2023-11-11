@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/MapScene.unity
+- path: Assets/Samples/Snapdragon Spaces/0.17.0/Core Samples/Scenes/Main Menu/Main
+    Menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

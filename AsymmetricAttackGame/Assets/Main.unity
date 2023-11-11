@@ -603,7 +603,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DeviceType: 
-  m_UriAddress: http://192.168.1.107:11100
+  m_UriAddress: https://3511-2a00-79e1-abc-156e-54a4-a7d-abc9-73f.ngrok.io/
+  m_UserName: BryceJaxon
   ReceivedText: {fileID: 189385109}
 --- !u!4 &1323743199
 Transform:
